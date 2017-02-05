@@ -1,0 +1,4 @@
+*.iml
+*.pyc
+report.xml
+.idea
