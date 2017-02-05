@@ -2,7 +2,7 @@
 
 Some notes and code for learning the basics of how HTTP works.
 
-Won't make much sense without an instructor.
+Very much WIP rough notes designed to be led by an instructor.
 
 ## Run Notes
 
